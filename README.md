@@ -28,3 +28,7 @@
 * Wifi - Has wifi or not
 * Price_range - This is the target variable with value of 0(low cost), 1(medium cost),
 * 2(high cost) and 3(very high cost)
+
+# Conclusion -
+After training our dataset with four different model, we conclude that XGBoost is best model for our dataset.
+(via the highest accuracy score = 0.9803)
